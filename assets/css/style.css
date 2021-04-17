@@ -198,3 +198,112 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+@media only screen and (max-width: 1024px) {
+    .header {
+      background-color: #333;
+    }
+
+  .hero{
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #content,
+  #benefits
+  #footer {
+    width: 100%;
+  }
+  
+  #benefits
+  #footer {
+    margin-top: 40px;
+  }
+}
+@media only screen and (max-width: 1024px) {
+    .header {
+      background-color: #333;
+    }
+
+  .hero{
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #content,
+  #benefits
+  #footer {
+    width: 100%;
+  }
+  
+  #benefits
+  #footer {
+    margin-top: 40px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+    .header {
+      background-color: #333;
+    }
+
+  .hero{
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #content,
+  #benefits
+  #footer {
+    width: 100%;
+  }
+  
+  #benefits
+  #footer {
+    margin-top: 40px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+    .header {
+      background-color: #333;
+    }
+
+  .hero{
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #content,
+  #benefits
+  #footer {
+    width: 100%;
+  }
+  
+  #benefits
+  #footer {
+    margin-top: 40px;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+    .header {
+      background-color: #333;
+    }
+
+  .hero{
+    width: 100%;
+    padding: 20px;
+  }
+  
+  #content,
+  #benefits
+  #footer {
+    width: 100%;
+  }
+  
+  #benefits
+  #footer {
+    margin-top: 40px;
+  }
+}
