@@ -1,11 +1,15 @@
-# https://ktodoran.github.io/horiseonmarketing.io/
+# My First Code Refactoring
+![ScreenShot of Project](ScreenshotofCodeQuiz.jpg)
 
-# Module 1 Challenge
+**This is my second attempt at Code Refactoring. The code was given to me through my Coding Class**
 
-This is my first attempt at Code Refactoring.
+Link to landing page: https://ktodoran.github.io/Code-Refactor/
 
-I was given a starter code file, and was told to refactor the code so that it looked cleaner and all of the functions worked.
+This is a landing page for my first ever refactored code!
+My Coding Class I was in gave me some started code to go in and fix up, and make appealing in a more semantic matter!
 
-It is a landing page for a Marketing Agency, that wanted their codebase to follow accessibility standards and is optimized for search engines!
+There is a screenshot of the layout provided above! Feel free to take a look at its layout!
 
-This code was refactored by me, Kyle Todoran!
+This file was created by me, Kyle Todoran!
+
+Let me know if something isn't quite working or you think something else needs fixed! Just shoot me an email at ktodoran@gmail.com! I would love the feedback!
