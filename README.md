@@ -1,5 +1,5 @@
 # My First Code Refactoring
-![ScreenShot of Project](C:\Users\kyle.todoran\Desktop\Coding Class\Module 1\Module Challenge\horiseonmarketing.io\assets\Images\ScreenshotofProject.jpg)
+![ScreenShot of Project](assets/Images/ScreenshotofProject.jpg)
 
 **This is my second attempt at Code Refactoring. The code was given to me through my Coding Class**
 
